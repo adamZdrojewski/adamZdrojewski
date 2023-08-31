@@ -1,7 +1,7 @@
 <div align="center"><img src="header.png" /></div>
 
 ### Hello!
-My name is Adam Zdrojewski and I like to code for fun!  I like web development because it can provide a good logical challenge with a lot of moving pieces while still having an artistic and design component as well.  I mainly work by myself on smaller projects usually relating to game shows and the software that runs the different components of the game.
+My name is Adam Zdrojewski and I like to program for fun!  I like web development because it can provide a good logical challenge with a lot of moving pieces while still having an artistic and design component as well.  I mainly work by myself on smaller projects usually relating to game shows and the software that runs the different components of the game.
 
 ### Languages/Tools I Use
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -18,6 +18,6 @@ My name is Adam Zdrojewski and I like to code for fun!  I like web development b
 
 ### Extra Info
 - 🔭 I’m currently working on Ride Round Up
-- 🌱 I’m currently learning more about GitHub
+- 🌱 I’m currently learning more about TypeScript
 - 💬 Ask me about Roller Coasters 🎢
 - ⚡ Fun fact: I have walked 100,000 steps in a single day
