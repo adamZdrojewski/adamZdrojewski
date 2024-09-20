@@ -19,6 +19,6 @@ My name is Adam Zdrojewski and I like to program for fun!  I like developing ser
 
 ### Extra Info
 - 🔭 I’m currently working on Derek Suite
-- 🌱 I’m currently learning more about Jenkins
+- 🌱 I’m currently learning more about Java
 - 💬 Ask me about Cedar Point 🎢
 - ⚡ Fun fact: I have walked 100,000 steps in a single day
